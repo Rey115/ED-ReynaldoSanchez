@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Determinar Si Un Numero Es Primo/1.0.0": {
+        "runtime": {
+          "Determinar Si Un Numero Es Primo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Determinar Si Un Numero Es Primo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

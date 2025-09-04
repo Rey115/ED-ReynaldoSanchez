@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\bin\Debug\net8.0\Calcular Area De Un Circulo.exe
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\bin\Debug\net8.0\Calcular Area De Un Circulo.deps.json
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\bin\Debug\net8.0\Calcular Area De Un Circulo.runtimeconfig.json
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\bin\Debug\net8.0\Calcular Area De Un Circulo.dll
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\bin\Debug\net8.0\Calcular Area De Un Circulo.pdb
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\Calcular Area De Un Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\Calcular Area De Un Circulo.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\Calcular Area De Un Circulo.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\Calcular Area De Un Circulo.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\Calcular Area De Un Circulo.dll
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\refint\Calcular Area De Un Circulo.dll
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\Calcular Area De Un Circulo.pdb
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\Calcular Area De Un Circulo.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Calcular Area De Un Circulo\obj\Debug\net8.0\ref\Calcular Area De Un Circulo.dll

@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\bin\Debug\net8.0\Determinar Si Un Numero Es Primo.exe
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\bin\Debug\net8.0\Determinar Si Un Numero Es Primo.deps.json
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\bin\Debug\net8.0\Determinar Si Un Numero Es Primo.runtimeconfig.json
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\bin\Debug\net8.0\Determinar Si Un Numero Es Primo.dll
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\bin\Debug\net8.0\Determinar Si Un Numero Es Primo.pdb
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\Determinar Si Un Numero Es Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\Determinar Si Un Numero Es Primo.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\Determinar Si Un Numero Es Primo.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\Determinar Si Un Numero Es Primo.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\Determinar Si Un Numero Es Primo.dll
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\refint\Determinar Si Un Numero Es Primo.dll
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\Determinar Si Un Numero Es Primo.pdb
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\Determinar Si Un Numero Es Primo.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Determinar Si Un Numero Es Primo\obj\Debug\net8.0\ref\Determinar Si Un Numero Es Primo.dll

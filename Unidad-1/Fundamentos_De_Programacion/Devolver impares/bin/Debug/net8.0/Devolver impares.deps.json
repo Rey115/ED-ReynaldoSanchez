@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Devolver impares/1.0.0": {
+        "runtime": {
+          "Devolver impares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Devolver impares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

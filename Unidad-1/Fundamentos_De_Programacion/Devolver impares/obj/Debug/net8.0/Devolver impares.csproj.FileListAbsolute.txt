@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Devolver impares\bin\Debug\net8.0\Devolver impares.exe
+C:\Users\reyna\source\repos\Devolver impares\bin\Debug\net8.0\Devolver impares.deps.json
+C:\Users\reyna\source\repos\Devolver impares\bin\Debug\net8.0\Devolver impares.runtimeconfig.json
+C:\Users\reyna\source\repos\Devolver impares\bin\Debug\net8.0\Devolver impares.dll
+C:\Users\reyna\source\repos\Devolver impares\bin\Debug\net8.0\Devolver impares.pdb
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\Devolver impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\Devolver impares.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\Devolver impares.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\Devolver impares.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\Devolver impares.dll
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\refint\Devolver impares.dll
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\Devolver impares.pdb
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\Devolver impares.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Devolver impares\obj\Debug\net8.0\ref\Devolver impares.dll
