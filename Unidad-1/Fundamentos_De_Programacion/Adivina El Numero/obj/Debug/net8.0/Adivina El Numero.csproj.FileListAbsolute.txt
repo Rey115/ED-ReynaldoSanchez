@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Adivina El Numero\bin\Debug\net8.0\Adivina El Numero.exe
+C:\Users\reyna\source\repos\Adivina El Numero\bin\Debug\net8.0\Adivina El Numero.deps.json
+C:\Users\reyna\source\repos\Adivina El Numero\bin\Debug\net8.0\Adivina El Numero.runtimeconfig.json
+C:\Users\reyna\source\repos\Adivina El Numero\bin\Debug\net8.0\Adivina El Numero.dll
+C:\Users\reyna\source\repos\Adivina El Numero\bin\Debug\net8.0\Adivina El Numero.pdb
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\Adivina El Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\Adivina El Numero.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\Adivina El Numero.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\Adivina El Numero.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\Adivina El Numero.dll
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\refint\Adivina El Numero.dll
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\Adivina El Numero.pdb
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\Adivina El Numero.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Adivina El Numero\obj\Debug\net8.0\ref\Adivina El Numero.dll
