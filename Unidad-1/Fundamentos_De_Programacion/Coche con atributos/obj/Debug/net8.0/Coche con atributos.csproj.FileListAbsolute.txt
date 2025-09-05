@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Coche con atributos\bin\Debug\net8.0\Coche con atributos.exe
+C:\Users\reyna\source\repos\Coche con atributos\bin\Debug\net8.0\Coche con atributos.deps.json
+C:\Users\reyna\source\repos\Coche con atributos\bin\Debug\net8.0\Coche con atributos.runtimeconfig.json
+C:\Users\reyna\source\repos\Coche con atributos\bin\Debug\net8.0\Coche con atributos.dll
+C:\Users\reyna\source\repos\Coche con atributos\bin\Debug\net8.0\Coche con atributos.pdb
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\Coche con atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\Coche con atributos.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\Coche con atributos.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\Coche con atributos.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\Coche con atributos.dll
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\refint\Coche con atributos.dll
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\Coche con atributos.pdb
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\Coche con atributos.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Coche con atributos\obj\Debug\net8.0\ref\Coche con atributos.dll

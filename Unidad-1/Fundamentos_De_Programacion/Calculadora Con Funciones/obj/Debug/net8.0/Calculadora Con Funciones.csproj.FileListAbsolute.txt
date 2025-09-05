@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Calculadora Con Funciones\bin\Debug\net8.0\Calculadora Con Funciones.exe
+C:\Users\reyna\source\repos\Calculadora Con Funciones\bin\Debug\net8.0\Calculadora Con Funciones.deps.json
+C:\Users\reyna\source\repos\Calculadora Con Funciones\bin\Debug\net8.0\Calculadora Con Funciones.runtimeconfig.json
+C:\Users\reyna\source\repos\Calculadora Con Funciones\bin\Debug\net8.0\Calculadora Con Funciones.dll
+C:\Users\reyna\source\repos\Calculadora Con Funciones\bin\Debug\net8.0\Calculadora Con Funciones.pdb
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\Calculadora Con Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\Calculadora Con Funciones.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\Calculadora Con Funciones.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\Calculadora Con Funciones.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\Calculadora Con Funciones.dll
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\refint\Calculadora Con Funciones.dll
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\Calculadora Con Funciones.pdb
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\Calculadora Con Funciones.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Calculadora Con Funciones\obj\Debug\net8.0\ref\Calculadora Con Funciones.dll

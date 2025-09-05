@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Libro\bin\Debug\net8.0\Libro.exe
+C:\Users\reyna\source\repos\Libro\bin\Debug\net8.0\Libro.deps.json
+C:\Users\reyna\source\repos\Libro\bin\Debug\net8.0\Libro.runtimeconfig.json
+C:\Users\reyna\source\repos\Libro\bin\Debug\net8.0\Libro.dll
+C:\Users\reyna\source\repos\Libro\bin\Debug\net8.0\Libro.pdb
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\Libro.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\Libro.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\Libro.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\Libro.dll
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\refint\Libro.dll
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\Libro.pdb
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\Libro.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Libro\obj\Debug\net8.0\ref\Libro.dll

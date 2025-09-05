@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calculadora Con Funciones/1.0.0": {
+        "runtime": {
+          "Calculadora Con Funciones.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora Con Funciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
