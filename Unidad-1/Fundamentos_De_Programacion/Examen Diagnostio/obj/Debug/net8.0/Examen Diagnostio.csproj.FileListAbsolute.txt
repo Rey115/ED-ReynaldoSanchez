@@ -1,0 +1,14 @@
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\Examen Diagnostio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\Examen Diagnostio.AssemblyInfoInputs.cache
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\Examen Diagnostio.AssemblyInfo.cs
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\Examen Diagnostio.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\Examen Diagnostio\bin\Debug\net8.0\Examen Diagnostio.exe
+C:\Users\reyna\source\repos\Examen Diagnostio\bin\Debug\net8.0\Examen Diagnostio.deps.json
+C:\Users\reyna\source\repos\Examen Diagnostio\bin\Debug\net8.0\Examen Diagnostio.runtimeconfig.json
+C:\Users\reyna\source\repos\Examen Diagnostio\bin\Debug\net8.0\Examen Diagnostio.dll
+C:\Users\reyna\source\repos\Examen Diagnostio\bin\Debug\net8.0\Examen Diagnostio.pdb
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\Examen Diagnostio.dll
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\refint\Examen Diagnostio.dll
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\Examen Diagnostio.pdb
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\Examen Diagnostio.genruntimeconfig.cache
+C:\Users\reyna\source\repos\Examen Diagnostio\obj\Debug\net8.0\ref\Examen Diagnostio.dll
