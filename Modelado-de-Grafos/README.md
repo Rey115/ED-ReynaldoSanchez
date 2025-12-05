@@ -25,10 +25,12 @@ Switch2 con PC3, PC4 e Impresora2
 
 El dispositivo más crítico es el Router, ya que su falla desconecta toda la red en múltiples partes.
 
-![Diagrama](ejercicio1/diagrama2.png)
+![Diagrama](ejercicio2/diagrama2.png)
 
 
 Ejercicio 3: Fiesta con Amigos (Red de Relaciones)
 
 Se modeló una situación real: organizar una fiesta con amigos de Prepa y Universidad. Cada vértice representa a un amigo y las aristas indican si se conocieron en Prepa o Universidad. Se calcularon los grados de cada vértice, mostrando que Prepa y Universidad tienen grado alto, y que amigos como Mayo, César y Amigo tienen grado 2.
 El grafo es conexo porque todos los amigos están conectados a alguno de los dos grupos principales, y sí existen ciclos. También se formuló una pregunta interesante: ¿quiénes se mantuvieron como amigos después de la preparatoria?
+
+![Diagrama](ejercicio3/diagrama3.png)
