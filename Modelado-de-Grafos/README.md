@@ -25,6 +25,8 @@ Switch2 con PC3, PC4 e Impresora2
 
 El dispositivo más crítico es el Router, ya que su falla desconecta toda la red en múltiples partes.
 
+![Diagrama](ejercicio1/diagrama2.png)
+
 
 Ejercicio 3: Fiesta con Amigos (Red de Relaciones)
 
